@@ -1,0 +1,181 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="self:war exploded">
+    <output-path>$PROJECT_DIR$/target/self-1.0-SNAPSHOT</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="self" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: com.htjc:accessafe:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:aspectjrt-1.6.8:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:aspectjweaver-1.6.8:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:bcmail-jdk16-1.46:1.0.0" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/htjc/salecontrolclient/0.1.8-SNAPSHOT/salecontrolclient-0.1.8-20180103.015832-10.jar" output-file-name="salecontrolclient-0.1.8-SNAPSHOT.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/htjc/payclient/1.2.8-SNAPSHOT/payclient-1.2.8-20171128.122115-1.jar" output-file-name="payclient-1.2.8-SNAPSHOT.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/htjc/debdatamodel/0.2.9-SNAPSHOT/debdatamodel-0.2.9-20171227.115543-10.jar" output-file-name="debdatamodel-0.2.9-SNAPSHOT.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/htjc/ipcp/ipcp-water-alipay-client/0.0.1-SNAPSHOT/ipcp-water-alipay-client-0.0.1-20170609.085635-5.jar" output-file-name="ipcp-water-alipay-client-0.0.1-SNAPSHOT.jar" />
+          <element id="library" level="project" name="Maven: com.htjc:bcprov-ext-jdk16-1.46:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:bcprov-jdk16-1.46:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:bps-api:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:cglib-nodep-2.2:1.0.0" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/htjc/walletclient/1.2.7-SNAPSHOT/walletclient-1.2.7-20180105.072410-83.jar" output-file-name="walletclient-1.2.7-SNAPSHOT.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/htjc/dubbo-services-api/0.1.5-SNAPSHOT/dubbo-services-api-0.1.5-20170918.015851-19.jar" output-file-name="dubbo-services-api-0.1.5-SNAPSHOT.jar" />
+          <element id="library" level="project" name="Maven: com.htjc:com.springsource.org.aopalliance-1.0.0:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:com.springsource.org.apache.commons.logging-1.1.1:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:commons-beanutils-1.7.0:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:commons-codec-1.2:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:commons-collections-3.2.1:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:commons-dbcp-1.4:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:commons-digester-1.6:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:commons-fileupload-1.2.2:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:commons-httpclient-3.1.0:1.0.0" />
+          <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpclient:4.3" />
+          <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpcore:4.3" />
+          <element id="library" level="project" name="Maven: commons-logging:commons-logging:1.1.3" />
+          <element id="library" level="project" name="Maven: commons-codec:commons-codec:1.6" />
+          <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpmime:4.3" />
+          <element id="library" level="project" name="Maven: com.htjc:commons-io-2.0.1:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:commons-lang-2.5:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:commons-lang3-3.1:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:commons-logging-1.1.1:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:commons-net-3.0.1:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:commons-pool-1.5.4:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:commons-validator-1.1.4:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:dom4j-1.6.1:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:dpapi:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:eos-access-ejb-6.3.0:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:eos-access:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:eos-data:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:eos-infra:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:eos-runtime:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:eos-system:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:ezmorph-1.0.6:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:fastdfs_client_v1.20:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:freemarker:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:ibatis-sqlmap-2.3.4.726:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:jackson-all-1.9.2:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:javaCertAPI-3.0.1:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:javaee:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:javassist-3.4.GA:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:jaxen-1.1.2:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:jsf-api:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:jsf-impl:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:json-lib-2.4-jdk15:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:jstl-1.2:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:junit-4.6:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:log4j-1.2.17:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:mail-1.0:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:netty-3.2.5.Final:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:not-yet-commons-ssl-0.3.11:1.0.0" />
+          <element id="library" level="project" name="Maven: com.oracle:ojdbc:6" />
+          <element id="library" level="project" name="Maven: com.htjc:pinyin4j-2.5.0:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:pkcs7tool_BC:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:poi-3.10.1:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:sdo-api-v2.1.0:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:securityutil-configs:1.03" />
+          <element id="library" level="project" name="Maven: com.htjc:sgcc-mall-authz-client:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:slf4j-api-1.6.6:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:slf4j-api-1.7.5:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:slf4j-log4j12-1.7.5:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:spring-aop-3.2.3.RELEASE:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:spring-aspects-3.2.3.RELEASE:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:spring-beans-3.2.3.RELEASE:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:spring-context-3.2.3.RELEASE:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:spring-context-support-3.2.3.RELEASE:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:spring-core-3.2.3.RELEASE:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:spring-expression-3.2.3.RELEASE:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:spring-instrument-3.2.3.RELEASE:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:spring-instrument-tomcat-3.2.3.RELEASE:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:spring-jdbc-3.2.3.RELEASE:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:spring-jms-3.2.3.RELEASE:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:spring-orm-3.2.3.RELEASE:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:spring-oxm-3.2.3.RELEASE:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:spring-test-3.2.3.RELEASE:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:spring-tx-3.2.3.RELEASE:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:spring-web-3.2.3.RELEASE:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:spring-webmvc-3.2.3.RELEASE:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:spring-webmvc-portlet-3.2.3.RELEASE:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:top-commons-1.0:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:top-security-1.0:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:xmemcached-1.4.2:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:zip4j-1.3.1:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:zkclient-0.1:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:zookeeper-3.4.6:1.0.0" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/htjc/common/1.0.2-SNAPSHOT/common-1.0.2-20171204.082332-5.jar" output-file-name="common-1.0.2-SNAPSHOT.jar" />
+          <element id="library" level="project" name="Maven: com.htjc:bankcommom:1.0.16" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/htjc/websitebaseclient/1.8.8-SNAPSHOT/websitebaseclient-1.8.8-20180102.090315-32.jar" output-file-name="websitebaseclient-1.8.8-SNAPSHOT.jar" />
+          <element id="library" level="project" name="Maven: com.htjc:feeclient:0.0.1-SNAPSHOT" />
+          <element id="library" level="project" name="Maven: com.htjc:fastjson-1.1.35:1.0.0" />
+          <element id="library" level="project" name="Maven: com.htjc:loging:1.0.0" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/htjc/electricclient/0.3.7-SNAPSHOT/electricclient-0.3.7-20180102.083513-20.jar" output-file-name="electricclient-0.3.7-SNAPSHOT.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/htjc/saleclient/0.2.5-SNAPSHOT/saleclient-0.2.5-20170816.022255-5.jar" output-file-name="saleclient-0.2.5-SNAPSHOT.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/htjc/fundclient/0.1.1-SNAPSHOT/fundclient-0.1.1-20170822.075545-49.jar" output-file-name="fundclient-0.1.1-SNAPSHOT.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/htjc/policyclient/0.0.7-SNAPSHOT/policyclient-0.0.7-20170609.074556-6.jar" output-file-name="policyclient-0.0.7-SNAPSHOT.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/htjc/authclient/1.0.5-SNAPSHOT/authclient-1.0.5-20171219.054347-13.jar" output-file-name="authclient-1.0.5-SNAPSHOT.jar" />
+          <element id="library" level="project" name="Maven: com.google.code.gson:gson:2.3.1" />
+          <element id="library" level="project" name="Maven: com.htjc:arrowim_interface:0.0.3" />
+          <element id="library" level="project" name="Maven: com.htjc:mqtool:1.0" />
+          <element id="library" level="project" name="Maven: com.alibaba.rocketmq:rocketmq-client:3.2.6" />
+          <element id="library" level="project" name="Maven: com.alibaba.rocketmq:rocketmq-common:3.2.6" />
+          <element id="library" level="project" name="Maven: com.alibaba.rocketmq:rocketmq-remoting:3.2.6" />
+          <element id="library" level="project" name="Maven: io.netty:netty-all:4.0.25.Final" />
+          <element id="library" level="project" name="Maven: com.alibaba.rocketmq:rocketmq-tools:3.2.6" />
+          <element id="library" level="project" name="Maven: com.alibaba.rocketmq:rocketmq-store:3.2.6" />
+          <element id="library" level="project" name="Maven: com.alibaba.rocketmq:rocketmq-srvutil:3.2.6" />
+          <element id="library" level="project" name="Maven: commons-cli:commons-cli:1.2" />
+          <element id="library" level="project" name="Maven: commons-io:commons-io:2.4" />
+          <element id="library" level="project" name="Maven: org.kohsuke:github-api:1.59" />
+          <element id="library" level="project" name="Maven: com.infradna.tool:bridge-method-annotation:1.12" />
+          <element id="library" level="project" name="Maven: org.jenkins-ci:annotation-indexer:1.4" />
+          <element id="library" level="project" name="Maven: org.mockito:mockito-all:1.9.5" />
+          <element id="library" level="project" name="Maven: com.htjc:configs-client-spring:2.0.1" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-log4j12:1.7.2" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:3.2.2.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:3.2.2.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:3.2.2.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:3.2.2.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:3.2.2.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:3.2.2.RELEASE" />
+          <element id="library" level="project" name="Maven: com.htjc:configs-base:2.0.1" />
+          <element id="library" level="project" name="Maven: org.codehaus.jackson:jackson-mapper-asl:1.9.13" />
+          <element id="library" level="project" name="Maven: org.codehaus.jackson:jackson-core-asl:1.9.13" />
+          <element id="library" level="project" name="Maven: com.htjc:configs-loader-database:2.0.1" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/htjc/electric/electric-bill-api-client/0.0.1-SNAPSHOT/electric-bill-api-client-0.0.1-20170830.071625-48.jar" output-file-name="electric-bill-api-client-0.0.1-SNAPSHOT.jar" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/htjc/electric/electric-withhold-client/1.0.4-SNAPSHOT/electric-withhold-client-1.0.4-20171114.042633-1.jar" output-file-name="electric-withhold-client-1.0.4-SNAPSHOT.jar" />
+          <element id="library" level="project" name="Maven: junit:junit:4.6" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/htjc/electric/electric-api-client/0.0.9-SNAPSHOT/electric-api-client-0.0.9-20171108.031810-48.jar" output-file-name="electric-api-client-0.0.9-SNAPSHOT.jar" />
+          <element id="library" level="project" name="Maven: com.htjc:receivablescommom:0.0.4" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/htjc/mqmsgclient/1.1.2-SNAPSHOT/mqmsgclient-1.1.2-20171107.114939-1.jar" output-file-name="mqmsgclient-1.1.2-SNAPSHOT.jar" />
+          <element id="library" level="project" name="Maven: com.htjc:debao-protocol-api:0.0.1" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/htjc/falosy/0.0.1-SNAPSHOT/falosy-0.0.1-20171011.094914-1.jar" output-file-name="falosy-0.0.1-SNAPSHOT.jar" />
+          <element id="library" level="project" name="Maven: log4j:log4j:1.2.17" />
+          <element id="library" level="project" name="Maven: javax.servlet:servlet-api:2.5" />
+          <element id="library" level="project" name="Maven: org.aspectj:aspectjweaver:1.8.9" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.4.1-SNAPSHOT/dubbo-2.5.4.1-20171016.070234-11.jar" output-file-name="dubbo-2.5.4.1-SNAPSHOT.jar" />
+          <element id="library" level="project" name="Maven: com.netflix.hystrix:hystrix-core:1.5.11" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.6.2" />
+          <element id="library" level="project" name="Maven: com.netflix.archaius:archaius-core:0.4.1" />
+          <element id="library" level="project" name="Maven: commons-configuration:commons-configuration:1.8" />
+          <element id="library" level="project" name="Maven: commons-lang:commons-lang:2.6" />
+          <element id="library" level="project" name="Maven: io.reactivex:rxjava:1.2.0" />
+          <element id="library" level="project" name="Maven: org.hdrhistogram:HdrHistogram:2.1.9" />
+          <element id="library" level="project" name="Maven: com.netflix.hystrix:hystrix-metrics-event-stream:1.5.11" />
+          <element id="library" level="project" name="Maven: com.netflix.hystrix:hystrix-serialization:1.5.11" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.module:jackson-module-afterburner:2.7.5" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.7.5" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.7.5" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.7.5" />
+          <element id="library" level="project" name="Maven: com.alibaba:fastjson:1.1.39" />
+          <element id="library" level="project" name="Maven: aopalliance:aopalliance:1.0" />
+          <element id="library" level="project" name="Maven: org.jboss.netty:netty:3.2.5.Final" />
+          <element id="library" level="project" name="Maven: org.javassist:javassist:3.20.0-GA" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/target/self-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="self/web/Web" />
+    </root>
+  </artifact>
+</component>

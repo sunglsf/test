@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.htjc:payclient:1.2.8-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/htjc/payclient/1.2.8-SNAPSHOT/payclient-1.2.8-20171128.122115-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/htjc/payclient/1.2.8-SNAPSHOT/payclient-1.2.8-20171128.122115-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/htjc/payclient/1.2.8-SNAPSHOT/payclient-1.2.8-20171128.122115-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

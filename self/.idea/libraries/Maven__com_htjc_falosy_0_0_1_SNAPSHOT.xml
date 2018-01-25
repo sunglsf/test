@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.htjc:falosy:0.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/htjc/falosy/0.0.1-SNAPSHOT/falosy-0.0.1-20171011.094914-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/htjc/falosy/0.0.1-SNAPSHOT/falosy-0.0.1-20171011.094914-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/htjc/falosy/0.0.1-SNAPSHOT/falosy-0.0.1-20171011.094914-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
